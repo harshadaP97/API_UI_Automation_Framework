@@ -80,7 +80,7 @@ User creation and updates are data-driven using `userData.json`:
 }
 ```
 
-📊 Reporting
+## 📊 Reporting
 ExtentReports HTML report is generated under:
 test-output/Reports/
 It includes:
@@ -97,6 +97,6 @@ Request/response payloads
 Test status and time
 Combined logs for UI and API tests
 ```
-✍️ Author
+## ✍️ Author
 Harshada Patil
 QA Engineer | Manual + Automation
