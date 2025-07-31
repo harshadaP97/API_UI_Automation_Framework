@@ -80,19 +80,23 @@ User creation and updates are data-driven using `userData.json`:
 }
 ```
 
-🧾 Reporting
+📊 Reporting
 ExtentReports HTML report is generated under:
 test-output/Reports/
-It includes all test steps, screenshots (for UI failures), API request/response logs, and overall pass/fail summary.
+It includes:
+All test steps
+Screenshots (for UI failures)
+API request/response logs
+Overall pass/fail summary
 
-📄 Sample Report
+📁 Sample Report
 A sample ExtentReport HTML file is available under the SampleReport/ folder so you can preview the output without executing tests.
 The report includes:
 Step-level logging
 Request/response payloads
 Test status and time
 Combined logs for UI and API tests
-
+```
 ✍️ Author
 Harshada Patil
 QA Engineer | Manual + Automation
