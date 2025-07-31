@@ -61,12 +61,17 @@ src/
 - Maven
 - TestNG
 
-### To Run All Tests:
-```bash
-Right-click testng.xml → Run as TestNG Suite
+## ▶️ Run All Tests
 
-📂 Sample Test Data
-User creation and updates are data-driven using userData.json:
+Right-click `testng.xml` → Run as TestNG Suite
+
+---
+
+## 🔸 Sample Test Data
+
+User creation and updates are data-driven using `userData.json`:
+
+```json
 {
   "name": "Harshada QA",
   "gender": "female",
