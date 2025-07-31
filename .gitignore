@@ -1,0 +1,17 @@
+# Ignore IDE folders
+.idea/
+*.iml
+
+# Ignore build artifacts
+target/
+out/
+
+# Ignore test reports and screenshots
+test-output/
+screenshots/
+
+# MacOS or system files
+.DS_Store
+
+# Logs
+*.log

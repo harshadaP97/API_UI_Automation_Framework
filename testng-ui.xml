@@ -1,0 +1,10 @@
+<suite name="UI Test Suite" parallel="false">
+
+    <test name="UI Test Execution">
+        <classes>
+            <class name="com.harshada.test.LoginPageTest" />
+            <class name="com.harshada.test.HomePageTest" />
+        </classes>
+    </test>
+
+</suite>

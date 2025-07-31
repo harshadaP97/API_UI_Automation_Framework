@@ -1,0 +1,14 @@
+<suite name="Full Regression Suite">
+    <test name="UI Tests">
+        <classes>
+            <class name="com.harshada.test.LoginPageTest"/>
+            <class name="com.harshada.test.HomePageTest"/>
+        </classes>
+    </test>
+
+    <test name="API Tests">
+        <classes>
+            <class name="com.harshada.api.test.UserCRUDTests"/>
+        </classes>
+    </test>
+</suite>
