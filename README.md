@@ -78,6 +78,7 @@ User creation and updates are data-driven using `userData.json`:
   "email": "harshada.qa+test@domain.com",
   "status": "active"
 }
+```
 
 🧾 Reporting
 ExtentReports HTML report is generated under:
