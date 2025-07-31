@@ -96,7 +96,7 @@ Step-level logging
 Request/response payloads
 Test status and time
 Combined logs for UI and API tests
-```
+
 ## ✍️ Author
 Harshada Patil
 QA Engineer | Manual + Automation
