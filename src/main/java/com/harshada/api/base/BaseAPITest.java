@@ -1,10 +1,11 @@
 package com.harshada.api.base;
 
-import com.harshada.base.TestBase;
 import io.restassured.specification.RequestSpecification;
 
 import java.io.FileInputStream;
 import java.util.Properties;
+
+import com.harshada.base.TestBase;
 
 import static io.restassured.RestAssured.given;
 
