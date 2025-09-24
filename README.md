@@ -97,6 +97,10 @@ Request/response payloads
 Test status and time
 Combined logs for UI and API tests
 
-## ✍️ Author
-Harshada Patil
-QA Engineer | Manual + Automation
+---
+### ⚠️ Disclaimer  
+This project is part of my personal QA portfolio, created to demonstrate my skills and experience.  
+Please do not reuse or distribute without permission.  
+**Authored by Harshada Patil**
+
+
